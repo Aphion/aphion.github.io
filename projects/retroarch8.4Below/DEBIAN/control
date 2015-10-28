@@ -1,9 +1,9 @@
 Package: com.libretro.retroarch
 Name: RetroArch
-Depends:
-Version: 0.0.1
+#Depends:
+Version: 1.0.0.2.1
 Architecture: iphoneos-arm
-Description: RetroArch for iOS
+Description: Last stable RetroArch for iOS 8.4 and below - before UI changes
 Maintainer: LibRetro
 Author: TwinAphex
 Section: Emulators
