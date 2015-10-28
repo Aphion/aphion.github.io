@@ -1,0 +1,8 @@
+Origin: Aphions Public Repository
+Label: Aphions Public Repo
+Suite: stable
+Version: 0.0.1
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Aphions Public Repo
