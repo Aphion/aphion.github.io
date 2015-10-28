@@ -1,9 +1,9 @@
-Package: com.aphion.retroarch
+Package: com.libretro.retroarch
 Name: RetroArch
 Depends:
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: RetroArch for iOS
-Maintainer: Aphion
-Author: Aphion
+Maintainer: LibRetro
+Author: TwinAphex
 Section: Emulators
