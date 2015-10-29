@@ -4,6 +4,8 @@ Name: RetroArch
 Version: 1.2.2
 Architecture: iphoneos-arm
 Description: RetroArch for iOS 9 and Above
+Homepage: http://www.libretro.com
+Depiction: http://www.libretro.com
 Maintainer: LibRetro
 Author: TwinAphex
-Section: Emulators
+Section: Emulation

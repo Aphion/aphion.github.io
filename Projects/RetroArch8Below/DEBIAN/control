@@ -3,7 +3,9 @@ Name: RetroArch
 #Depends:
 Version: 1.0.0.2.1
 Architecture: iphoneos-arm
-Description: Last stable RetroArch for iOS 8.4 and below - before UI changes
+Description: Last stable RetroArch for iOS 8.4.1 and below - before UI changes
+Homepage: http://www.libretro.com
+Depiction: http://www.libretro.com
 Maintainer: LibRetro
 Author: TwinAphex
-Section: Emulators
+Section: Emulation
