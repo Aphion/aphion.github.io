@@ -1,9 +1,0 @@
-Package: com.aphion.infinitheme
-Name: Infinitheme
-Depends:
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Infinitheme - Infinity Themes on iOS
-Maintainer: Aphion
-Author: Aphion
-Section: Themes
